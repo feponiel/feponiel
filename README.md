@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://gist.github.com/feponiel/46f5bd2c24f9a579c9bcfbcde48d94e2"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/feponiel/41762a72af22d63885ed7e11e12618b0/raw/e1bbcd2cb4128d7ea97c8e266ffc98eed08855f2/github_card.svg"/>
 <h1 align="left">Hi, I'm Felipe Elias</h1>
 
 - 🔥 Full-stack Application Developer 

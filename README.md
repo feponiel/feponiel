@@ -3,6 +3,5 @@
 
 <p align="left">A 17 years old enthusiastic application developer and AI student looking for boost people and business through technology and innovation.</p>
 
-## Working on
-<a href="" /></a>
+- Working at [IBM](https://ibm.com)
 

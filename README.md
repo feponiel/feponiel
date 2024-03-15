@@ -6,5 +6,7 @@
 - Working at [IBM](https://ibm.com)
 - Technologies: TypeScript, React, NextJS, Node, Fastify and NestJS
 
+<a href=""><img width="60%" src="https://raw.githubusercontent.com/gist/feponiel/0849b12d4d61d33523aa969af99768bd/raw/1f1e85e4c34fbbd89a6a781bde78fb6bf1f8eaf4/card_kodi.svg" /></a>
+
 [Download my resume]() | [Visit my LinkedIn](https://www.linkedin.com/in/felipe-daniel-elias/)
 

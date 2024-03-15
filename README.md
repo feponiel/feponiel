@@ -5,5 +5,5 @@
 
 - Working at [IBM](https://ibm.com)
 
-[Download my resume]() [Visit my LinkedIn](https://www.linkedin.com/in/felipe-daniel-elias/)
+[Download my resume]() | [Visit my LinkedIn](https://www.linkedin.com/in/felipe-daniel-elias/)
 

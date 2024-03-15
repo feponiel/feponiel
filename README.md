@@ -4,4 +4,5 @@
 <p align="left">A 17 years old enthusiastic application developer and AI student looking for boost people and business through technology and innovation.</p>
 
 ## Working on
-[![IBM Consulting](https://svg.bookmark.style/api?url=https://ibm.com)](https://ibm.com)
+![image](https://github.com/feponiel/feponiel/assets/89605239/e2c6e443-31a3-4777-a13a-0694280b18d4)
+

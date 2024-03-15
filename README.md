@@ -3,5 +3,6 @@
 
 <p align="left">A 17 years old enthusiastic application developer and AI student looking for boost people and business through technology and innovation.</p>
 
-## Best Projects
-[Kodi (Tech Blog)](https://github.com/feponiel/kodi-blog)
+## Working on
+[![Kodi (Tech Blog)](https://svg.bookmark.style/api?url=https://github.com/feponiel/kodi-blog&mode=dark&style=horizontal)](https://github.com/feponiel/kodi-blog)
+[![IBM Consulting](https://svg.bookmark.style/api?url=https://ibm.com&mode=dark&style=horizontal)](https://ibm.com)

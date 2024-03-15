@@ -4,6 +4,7 @@
 <p align="left">A 17 years old enthusiastic application developer and AI student looking for boost people and business through technology and innovation.</p>
 
 - Working at [IBM](https://ibm.com)
+- Technologies: TypeScript, React, NextJS, Node, Fastify and NestJS
 
 [Download my resume]() | [Visit my LinkedIn](https://www.linkedin.com/in/felipe-daniel-elias/)
 

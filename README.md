@@ -2,7 +2,7 @@
 
 ### Hi, I'm Felipe Elias!
 
-Welcome to my GitHub page! Let me show you some cool projects that stand out:
+Welcome to my GitHub page! Let me show you some cool repositories that stand out:
 
 ---
 

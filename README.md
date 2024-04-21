@@ -1,4 +1,4 @@
-### Hi, I'm Felipe Elias!
+# Felipe Elias
 
 Welcome to my GitHub page! Let me show you some cool repositories that stand out:
 

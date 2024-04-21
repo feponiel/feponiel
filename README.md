@@ -1,6 +1,6 @@
 # Felipe Elias
 
-Application Developer 🇧🇷
+Brazilian Application Developer
 
 Welcome to my GitHub page! Let me show you some cool repositories that stand out:
 

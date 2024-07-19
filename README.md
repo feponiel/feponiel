@@ -4,7 +4,7 @@ Application Developer
 
 Welcome to my GitHub page! Hope you enjoy my repositories :D
 
-<a href="https://github.com/feponiel/feponiel/blob/main/Felipe%20Elias%2C%20Curriculum%20Vitae%20-%2021-04-2024.pdf">Download my resume</a> | <a href="https://www.linkedin.com/in/felipe-daniel-elias/" target="_blank">Visit my LinkedIn</a>
+<a href="https://github.com/feponiel/feponiel/blob/main/Felipe%20Elias%20-%20Full-Stack%20Resume.pdf">Download my resume</a> | <a href="https://www.linkedin.com/in/felipe-daniel-elias/" target="_blank">Visit my LinkedIn</a>
 
 ---
 
